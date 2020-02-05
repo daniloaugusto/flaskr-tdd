@@ -1,6 +1,6 @@
 # Flask with TDD and JavaScript
 
-A project using flask with Test-Driven Development (TDD) and a front with JavaSript, following the Flaskr Tutorial [Flaskr](https://github.com/mjhea0/flaskr-tdd).
+A project using flask with Test-Driven Development (TDD) and a front with JavaSript, following the [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd).
 
 ## Getting Started
 
@@ -50,23 +50,16 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python v3.6.9](https://docs.python.org/fr/3.6/)
+* [Flask v1.1.1](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Make a fork and go on.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Michael Herman** [mjhea0](https://github.com/mjhea0)
 
 ## License
 
